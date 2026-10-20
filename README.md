@@ -1,23 +1,41 @@
 ### Hey, I'm Orun 👋
 
-Full-stack developer building fast, reliable products across **mobile**, **web** and **backend**.
-Currently shipping exchange infrastructure at **stable-jack** and side projects on weekends.
+Full-stack developer with a strong focus on frontend, building fast, reliable products across **mobile**, **web** and **backend**.
+
+- 💻 Building modern web apps with **React** and **Next.js**, from pixel-perfect UI to performance tuning
+- 📱 Creating cross-platform mobile apps with **React Native** and **Expo** for iOS and Android
+- 🧩 Writing clean, typed code in **TypeScript** with reusable components and predictable state management
+- ⚡ Caring about performance, accessibility and smooth animations
+- 🔗 Connecting frontends to APIs and services with **Node.js**, **GraphQL** and **PostgreSQL**
+- 🌱 Always learning new tools and improving the developer experience
 
 <br>
 
-**Stack**
+**Frontend — Web**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express,postgres,python,tailwind,docker,git&theme=dark&perline=10" height="36" />
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,redux,tailwind,sass,styledcomponents,materialui,vite,webpack,graphql,apollo,jest,vitest,cypress,figma&theme=dark&perline=10" height="78" />
 </p>
+
+`React Query` · `Zustand` · `React Hook Form` · `Zod` · `Framer Motion` · `Storybook` · `Playwright`
 
 <br>
 
-**Now**
+**Mobile — React Native**
 
-- 🔨 Building `exchange_monorepo` — trading platform, web + services
-- 🌍 Working on `gacentralasia`
-- 📱 Tinkering with `familyApp` (React Native)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,redux,firebase,androidstudio,apple,jest&theme=dark&perline=10" height="36" />
+</p>
+
+`Expo` · `EAS Build` · `React Navigation` · `Expo Router` · `Reanimated` · `Gesture Handler` · `MMKV` · `Push Notifications` · `Detox` · `Fastlane`
+
+<br>
+
+**Backend & Tooling**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,python,docker,git,githubactions,vercel,pnpm,postman&theme=dark&perline=10" height="36" />
+</p>
 
 <br>
 
